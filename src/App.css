@@ -1,0 +1,49 @@
+.App {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: 0 auto;
+}
+input {
+  margin-top: 14px !important;
+}
+label {
+  padding-top: 10px !important;
+  font-size: 14px !important;
+}
+.passwordLink {
+  margin: 10px 0 !important;
+}
+.css-ahj2mt-MuiTypography-root {
+  margin: 10px 0 !important;
+}
+.css-dmmspl-MuiFormGroup-root {
+  flex-direction: row !important;
+}
+.acceptlable span {
+  font-size: 12px !important;
+}
+.css-19kzrtu {
+  padding: 0px !important;
+}
+.MuiTabs-flexContainer {
+  display: flex;
+  justify-content: center;
+  background-color: #fff;
+  border-bottom: 2px solid rgb(226, 226, 226);
+}
+.MuiTabs-flexContainer Button {
+  width: 50%;
+  text-align: center;
+  font-size: 16px;
+}
+.btnsignup {
+  margin-top: 15px !important;
+}
+.css-1d1r5q-MuiFormHelperText-root {
+  color: rgb(211, 70, 70) !important;
+  font-weight: 600 !important;
+}
+.css-1ps6pg7-MuiPaper-root {
+  box-shadow: none !important;
+}
